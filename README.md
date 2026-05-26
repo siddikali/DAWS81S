@@ -1,2 +1,2 @@
-# DAWS84s
-Learning aws with devops 84s batch
+# DAWS81s
+Learning aws with devops 81s batch
